@@ -58,11 +58,11 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Installation & Setup
 
-1.  #### Clone the repository:
-```bash
-git clone https://github.com/NotJackal/CIS453Group1CarRental.git
-cd CIS453Group1CarRental
-```
+1.  **Clone the repository:**
+    ```sh
+    git clone [https://github.com/Lalit1965/BankingApp.git](https://github.com/Lalit1965/BankingApp.git)
+    cd BankingApp
+    ```
 
 2.  **Set up the MySQL Database:**
     * Open your MySQL client and create a new database named `bank`.
